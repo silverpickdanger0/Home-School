@@ -198,4 +198,4 @@ This repository serves as the official landing page for Home School. The softwar
 **Get the most recent version of Home School today!**
 
 ---
-**Last updated:** 2026-11-14 07:22:01 UTC
+**Last updated:** 2026-11-14 14:46:32 UTC
